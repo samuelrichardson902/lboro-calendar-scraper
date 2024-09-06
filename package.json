@@ -1,0 +1,14 @@
+{
+  "name": "lboro-timetable-scraper",
+  "version": "1.0.0",
+  "description": "Loughborough University Timetable Scraper",
+  "main": "script.js",
+  "author": "Sam Richardson",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  },
+  "scripts": {
+    "start": "node calendarScraper.js <username> <password> <sem1/sem2>"
+  }
+}
