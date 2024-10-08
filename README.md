@@ -13,7 +13,7 @@ This script logs into the Loughborough University timetable system, handles Duo 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/samuelrichardson902/lboro-timetable-scraper.git
+   git clone https://github.com/samuelrichardson902/lboro-calendar-scraper.git
    cd lboro-timetable-scraper
    ```
 
