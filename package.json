@@ -1,12 +1,13 @@
 {
-  "name": "lboro-timetable-scraper",
+  "name": "lboro-calendar-scraper",
   "version": "1.0.0",
-  "description": "Loughborough University Timetable Scraper",
-  "main": "script.js",
-  "author": "Sam Richardson",
-  "license": "MIT",
+  "description": "Scrapes Loughborough University calendars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "puppeteer": "^19.0.0"
+    "puppeteer": "^21.0.0" // Use the Puppeteer version that suits your project
   },
   "scripts": {
     "start": "node calendarScraper.js <username> <password> <sem1/sem2>"
