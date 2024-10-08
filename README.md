@@ -14,7 +14,7 @@ This script logs into the Loughborough University timetable system, handles Duo 
 
    ```bash
    git clone https://github.com/samuelrichardson902/lboro-calendar-scraper.git
-   cd lboro-timetable-scraper
+   cd lboro-calendar-scraper
    ```
 
 2. Install dependencies:
